@@ -4,7 +4,6 @@ The main idea behind this project is to use RNN(LSTM) layers and do a process an
 This project is based on my basic understanding of LSTM and sentiment analysis and articles read on medium.com along with my machine learning course at Coding Blocks.
 
 ### Dependencies :
-  
   1. Keras
   2. TensorFlow
   3. Numpy
@@ -18,5 +17,10 @@ Note : The dataset is not included in this repo. and the folder names in Image C
 
 ## Results : 
 
+Random image was chosen (as per the code) with appreciable results
+<br>
+<br>
+<br>
+<img src = "https://github.com/Rahul2k/Image-Captioning/blob/master/2020-04-22.png">
 
 

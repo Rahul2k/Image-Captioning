@@ -1,6 +1,6 @@
 # Image-Captioning
 
-The main idea behind this project is to use RNN(LSTM) layers and do a process analogous to sentiment analysis (Markov Chains), on images.
+The main idea behind this project is to use LSTM layers and do a process analogous to sentiment analysis (Markov Chains), on images.
 This project is based on my basic understanding of LSTM and sentiment analysis and articles read on medium.com along with my machine learning course at Coding Blocks.
 
 ### Dependencies :
